@@ -36,6 +36,14 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 
 Small animations:
 
+![arduino_oled_walking_man_sizes](https://github.com/upiir/arduino_oled_animations/assets/117754156/89ce9e7e-f36b-477f-8432-2f03e905094d)
+
+![arduino_oled_walking_man](https://github.com/upiir/arduino_oled_animations/assets/117754156/68727747-c72e-491a-9126-d5f7e0604d78)
+
+![arduino_oled_loading_sizes](https://github.com/upiir/arduino_oled_animations/assets/117754156/12f33e5c-2791-4242-bd5d-2a63323b3348)
+
+![arduino_oled_loading](https://github.com/upiir/arduino_oled_animations/assets/117754156/32979499-de5e-47d6-b8f9-426465ac892d)
+
 
 
 
