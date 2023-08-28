@@ -31,6 +31,9 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 - Smaller & Faster Arduino - https://youtu.be/4GfPQoIRqW8
 
 
+This video is sponsored by PCBWay - if you use this link, you can get 10 PCBs for free, only paying for shipping. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577
+
+
 ![THUMB_arduino_oled_animations](https://github.com/upiir/arduino_oled_animations/assets/117754156/45162598-70ff-487a-802a-6bdef5332a69)
 
 
